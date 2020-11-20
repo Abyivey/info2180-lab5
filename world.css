@@ -1,1 +1,53 @@
 /* Add your own styles */
+
+html, body, h1, h2, h3, h4, h5, h6  
+{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#top
+{
+    background-color: #3371c2;
+    text-align: center;
+}
+
+
+img
+{
+    height: 160px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#country
+{
+    height: 40px;
+    width: 500px;
+    box-shadow: 10px 10px 5px #db2489;
+    
+}
+footer
+{
+    background-color: #F5EDF0;
+    text-align: center;
+    color:  #0d5c63cc;
+    height: 50px;
+}
+footer> p
+{
+    padding-top: 5px;
+}
+button
+{
+    background-color: #db2489;
+    height: 55px;
+    width: 200px;
+    border-radius: 12px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: solid;
+    color: white;
+    margin-bottom: 20px;
+}
+
